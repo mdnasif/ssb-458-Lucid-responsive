@@ -1,0 +1,400 @@
+@media (min-width: 1025px) and (max-width: 1220px){
+
+}
+
+@media (min-width:992px) and (max-width:1024px){
+    .phone {
+        width: 47%;
+    }
+    .phone img {
+        width: 85%;
+    }
+    .features_item h2 {
+        padding-top: 15px;
+    }
+    .detailsContent h1 {
+        margin-bottom: 25px;
+    }
+    .phn3{
+        padding-top: 70px;
+    }
+    .btn-features2 {
+        margin-left:0px;
+        margin-top: 20px;
+        padding: 15px 17px;
+    }
+}
+
+@media (min-width:768px) and (max-width:991px){
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+        padding-top: 15px;
+    }
+    .banner-content h1 {
+        font-size: 45px;
+    }
+    .banner-content p {
+        font-size: 15px;
+    }
+    .btn-download {
+        padding: 13px 15px;
+        font-size: 14px;
+    }
+    .btn-features {
+        padding: 13px 15px;
+        font-size: 14px;
+    }
+    .banner-content {
+        min-height: 75vh;
+    }
+    .phone {
+        width: 60%;
+    }
+    .phone img {
+        width: 80%;
+    }
+    .icon-box {
+        height: 62px;
+        width: 62px;
+        font-size: 33px;
+    }
+    .features_item h2 {
+        padding-top: 15px;
+    }
+    .phn3 {
+        padding-top: 19%;
+    }
+    .detailsContent p {
+        padding: 30px 0;
+        font-size: 17px;
+        margin: 0px;
+    }
+    .iconText {
+        margin-top: 30px;
+    }
+    .detailsContent h1 {
+        font-size: 34px;
+        margin-bottom: 20px;
+    }
+    .customize h1 {
+        margin-bottom: 20px;
+    }
+    .customize p {
+        font-size: 17px;
+        margin-top: 22px;
+    }
+    .like_you h4 {
+        font-size: 30px;
+    }
+    .like_you h4 span {
+        font-size: 35px;
+    }
+    .btn-download2 {
+        padding: 12px 10px;
+        font-size: 14px;
+    }
+    .btn-features2 {
+        padding: 12px 10px;
+        font-size: 13px;
+        margin-top: 20px;
+        margin-left:0px;
+    }
+    .price {
+        padding: 15px 0;
+    }
+    .price h1 {
+        font-size: 40px;
+        margin: 0;
+    }
+    .custom p { 
+        font-size: 16px;
+        margin: 0;
+        padding: 5px 15px;
+    }
+    .buy_btn {
+        padding: 14px 0px;
+    }
+    .price_box h5 {
+        padding: 14px 0;
+    }
+    .btn-orders {
+        padding: 11px 12px;
+    }
+}
+
+@media (min-width:576px) and (max-width:767px){
+    .phone{
+         display: none;
+    }
+   .iphone{
+        display: inherit;
+      }
+      .navbar-collapse {
+        padding-top: 14px;
+        direction: rtl;
+    }
+      .banner-content{
+         text-align: center;
+         flex-direction: column-reverse;
+      }
+    .rev{
+       flex-direction: column-reverse;
+    }
+    .phn{
+        width: 75%;
+        margin: auto;
+        padding-top: 30px;
+    }
+    .testimonial p {
+        font-size: 17px;
+    }
+    
+    .like_you h4 {
+        font-size: 25px;
+        margin-bottom: 20px;
+    }
+    .like_you h4 span {
+        
+        font-size: 29px;
+    }
+    .likeButton .btn-download {
+        padding: 12px 15px;
+        font-size: 14px;
+    }
+    .likeButton .btn-features {
+        padding: 12px 15px;
+        font-size: 14px;
+    }
+    .contact_num {
+        margin-bottom: 70px;
+        padding-bottom: 0px;
+    }
+    .contact-form {
+        padding: 35px 50px;
+        top: 85%;
+        width: 600px;
+    }
+    .footer_icon h6 {
+        font-size: 14px;
+        letter-spacing: 1px !important;
+    }
+    
+}
+@media (min-width:0px) and (max-width:575px){
+    .phone{
+       display: none;
+    }
+    .banner-content h5{
+        font-size: 16px;
+        text-align: center;
+    }
+    .banner-content h1{
+        font-size: 45px;
+        margin: 10px 0;
+        text-align: center;
+    }
+    .banner-content p{
+        font-size: 16px;
+        line-height: 25px;
+        text-align: center;
+        margin-bottom: 45px;
+    }
+    .btn-download, .btn-features {
+        padding: 12px 15px !important;
+        font-size: 14px;
+    }
+    .banner-content{
+        text-align: center;
+    }
+    .heading h5{
+        font-size: 16px;
+    }
+    .heading h1 {
+        font-size: 35px;}
+        
+        .features_item h2 {
+            padding-top: 20px;
+            margin: 0px;
+        }
+        .features_item p{
+            font-size: 18px;
+            padding: 20px 30px;
+            margin-bottom: 30px;
+            
+        }
+        .phn{
+            text-align: center;
+            margin-bottom: 60px;
+        }
+        .phn img{
+            width: 60%;
+        }
+        .detailsContent {
+            padding: 0 30px;
+        }
+        .customize {
+            padding: 45px 30px;
+        
+        }
+        .customize p {
+            font-size: 18px;
+            margin-top: 20px;
+        }
+        
+        .like_you h4 {
+            font-size: 30px;
+            margin: 0;
+            margin-bottom: 20px;
+        }
+        
+        .phn3 img{
+            width: 80%;
+        }
+        /* . {
+            text-align: center!important;
+            padding-top: 15px;
+        } */
+        .pricingBottom {
+           
+            text-align: center;
+        }
+        .navbar-collapse {
+            padding-top: 14px;
+            direction: rtl;
+        }
+        .navbar-light .navbar-nav .nav-link {
+            text-align: center;
+            padding-top: 15px;
+        }
+        .contact-form {
+            padding: 45px 40px;
+            width: 500px;
+            text-align: center;
+           
+        }
+        .contact_num {
+        
+            padding-bottom: 50px;
+            margin-bottom: 0px;
+        }
+        .contentUs i {
+            
+            padding-top: 0px;
+        }
+        .contact_num {
+            padding-bottom: 20px;
+        }
+        .contentUs{
+            padding-bottom: 260px;
+        }
+}
+@media (min-width:0px) and (max-width:425px){
+    .contact-form {
+        padding: 35px 30px;
+        width: 350px;
+    }
+    .contact_num {
+        padding-bottom: 0px;
+    }
+    .contentUs p {
+        margin: 20px 0;
+        font-size: 18px;
+    }
+    .contentUs i {
+        font-size: 25px;
+        padding-top: 13px;
+    }
+     .contentUs{
+        padding-bottom: 256px !important;
+    } 
+    .contact-form .submit .btn-primary {
+        padding: 14px 12px;
+        font-size: 12px;
+    }
+}
+
+@media (min-width:0px) and (max-width:320px){
+   .btn-download{
+      margin-bottom: 0px;  
+   }
+  .top_btn{
+      display: flex;
+      justify-content: space-between;
+  }
+   .top_btn .btn-download{
+    padding: 10px 15px !important;
+    font-size: 13px !important;
+   }
+   .top_btn .btn-features{
+    padding: 10px 15px !important;
+    font-size: 13px !important;
+   }
+   .btn-features{
+    margin-left: 0;
+   }
+   .banner-content h1{
+    font-size: 35px;
+    }
+    .contact_num {
+        
+        padding-bottom: 50px;
+        margin-bottom: 0px;
+    }
+    .contact-form {
+        
+        padding: 35px 25px;
+       
+        width: 280px;
+       
+    }
+    .testimonial p {
+        text-align: center;
+    }
+    .client {
+        width: 100%;
+        display: flex;
+        margin: auto;
+        align-items: center;
+        
+    }
+    .singleBox{
+        width: 100%;
+    }
+    .like_you h4 span {
+        font-size: 26px;
+    }
+    .like_you h4 {
+        font-size: 25px;
+        margin-bottom: 18px;
+    }
+    .likeButton{
+        display: flex;
+        justify-content: space-between;
+    }
+     .likeButton .btn-download {
+        padding: 10px 15px !important;
+        font-size: 13px !important;
+    }
+    .likeButton .btn-features {
+        padding: 10px 15px !important;
+        font-size: 13px !important;
+    }
+    .features_item p {
+        font-size: 19px;
+        padding: 20px 25px;
+        margin-bottom: 20px;
+    }
+    .iconText{
+        padding: 0;
+    }
+    .iconText .iText{
+        font-size: 15px;
+    }
+    .contentUs{
+        padding-bottom: 260px;
+    }
+    .contact-form .submit .btn-primary {
+        padding: 14px 10px;
+        font-size: 11px;
+    }
+}
